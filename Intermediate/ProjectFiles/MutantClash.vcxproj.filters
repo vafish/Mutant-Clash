@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\MutantClash.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{E2E4615A-56F0-4143-9286-A04201EC06DB}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\MutantClash.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\MutantClashEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{18975C74-0433-4D99-828F-9EA1030C3BA1}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\MutantClash">
+			<UniqueIdentifier>{922D2326-326D-4658-A864-876FCB23C5CB}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\MutantClash\MutantClash.Build.cs">
+			<Filter>Source\MutantClash</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\MutantClash\MutantClash.cpp">
+			<Filter>Source\MutantClash</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MutantClash\MutantClash.h">
+			<Filter>Source\MutantClash</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\MutantClash\MutantClashCharacter.cpp">
+			<Filter>Source\MutantClash</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MutantClash\MutantClashCharacter.h">
+			<Filter>Source\MutantClash</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\MutantClash\MutantClashGameMode.cpp">
+			<Filter>Source\MutantClash</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\MutantClash\MutantClashGameMode.h">
+			<Filter>Source\MutantClash</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
