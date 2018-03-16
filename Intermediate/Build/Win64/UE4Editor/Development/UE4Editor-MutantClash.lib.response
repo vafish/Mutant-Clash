@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MutantClash.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Uni\Year 3\FIT3039\MutantClash\Intermediate\Build\Win64\UE4Editor\Development\MutantClash\MutantClash.cpp.obj"
+"D:\Uni\Year 3\FIT3039\MutantClash\Intermediate\Build\Win64\UE4Editor\Development\MutantClash\MutantClashCharacter.cpp.obj"
+"D:\Uni\Year 3\FIT3039\MutantClash\Intermediate\Build\Win64\UE4Editor\Development\MutantClash\MutantClashGameMode.cpp.obj"
+"D:\Uni\Year 3\FIT3039\MutantClash\Intermediate\Build\Win64\UE4Editor\Development\MutantClash\MutantClash.init.gen.cpp.obj"
+"D:\Uni\Year 3\FIT3039\MutantClash\Intermediate\Build\Win64\UE4Editor\Development\MutantClash\MutantClashCharacter.gen.cpp.obj"
+"D:\Uni\Year 3\FIT3039\MutantClash\Intermediate\Build\Win64\UE4Editor\Development\MutantClash\MutantClashGameMode.gen.cpp.obj"
+"D:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\MutantClash\PCLaunch.rc.res"
+"D:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\Uni\Year 3\FIT3039\MutantClash\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MutantClash.lib"
