@@ -1,0 +1,1092 @@
+﻿Log file open, 03/23/18 20:39:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MutantClash
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1444663093) SRandInit(1444663093).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.163957
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Binaries/Win64/UE4Editor-MutantClash.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemSteam/Binaries/Win64/UE4Editor-OnlineSubsystemSteam.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: E:/UE418/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.23-09.39.12:016][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.23-09.39.12:016][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.23-09.39.12:072][  0]LogInit: Computer: OWNER-PC
+[2018.03.23-09.39.12:072][  0]LogInit: User: Owner
+[2018.03.23-09.39.12:072][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.03.23-09.39.12:072][  0]LogInit: High frequency timer resolution =3.903989 MHz
+[2018.03.23-09.39.12:072][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.03.23-09.39.12:072][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.23-09.39.12:072][  0]LogMemory: Process Physical Memory: 275.37 MB used, 275.37 MB peak
+[2018.03.23-09.39.12:072][  0]LogMemory: Process Virtual Memory: 270.21 MB used, 270.21 MB peak
+[2018.03.23-09.39.12:072][  0]LogMemory: Physical Memory: 6064.34 MB used,  10262.20 MB free, 16326.53 MB total
+[2018.03.23-09.39.12:072][  0]LogMemory: Virtual Memory: 686.70 MB used,  10262.20 MB free, 134217728.00 MB total
+[2018.03.23-09.39.12:165][  0]LogInit: Using OS detected language (en-GB).
+[2018.03.23-09.39.12:165][  0]LogInit: Using OS detected locale (en-AU).
+[2018.03.23-09.39.12:167][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.03.23-09.39.12:507][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.23-09.39.14:871][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.23-09.39.14:917][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2018.03.23-09.39.14:917][  0]LogD3D11RHI:       4060/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.03.23-09.39.14:919][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.23-09.39.14:919][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.23-09.39.14:919][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.23-09.39.14:925][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.23-09.39.14:925][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.23-09.39.14:925][  0]LogWindows: EnumDisplayDevices:
+[2018.03.23-09.39.14:925][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2018.03.23-09.39.14:925][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:1)
+[2018.03.23-09.39.14:925][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2018.03.23-09.39.14:925][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2018.03.23-09.39.14:925][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.23-09.39.14:925][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2018.03.23-09.39.14:925][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.23-09.39.14:925][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.23-09.39.14:925][  0]LogRHI: Texture pool is 2842 MB (70% of 4060 MB)
+[2018.03.23-09.39.14:950][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.23-09.39.14:963][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.03.23-09.39.14:965][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Intermediate/Shaders/WorkingDirectory/2376/).
+[2018.03.23-09.39.14:965][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Owner/AppData/Local/Temp/UnrealShaderWorkingDir/D806A76F46A45AA5E12B51877373A1EB/'.
+[2018.03.23-09.39.14:965][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.23-09.39.15:776][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.23-09.39.15:812][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.23-09.39.15:845][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.23-09.39.15:880][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.23-09.39.15:950][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.23-09.39.15:986][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.23-09.39.16:021][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.23-09.39.16:062][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.23-09.39.16:094][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.23-09.39.16:130][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.23-09.39.16:163][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.23-09.39.16:201][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.23-09.39.16:239][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.23-09.39.16:280][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.23-09.39.16:348][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.23-09.39.16:348][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.23-09.39.16:408][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.23-09.39.16:435][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.23-09.39.16:523][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.23-09.39.16:559][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.23-09.39.16:597][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.23-09.39.16:635][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.23-09.39.16:671][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.23-09.39.16:708][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.23-09.39.16:708][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.23-09.39.17:004][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.23-09.39.17:066][  0]LogDerivedDataCache: Loaded boot cache 0.06s 77MB C:/Users/Owner/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.23-09.39.17:066][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Owner/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.23-09.39.17:067][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.23-09.39.17:067][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.23-09.39.17:067][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.23-09.39.17:067][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.23-09.39.17:080][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.23-09.39.17:093][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Owner/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.23-09.39.17:102][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.23-09.39.17:102][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.23-09.39.17:102][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.23-09.39.17:102][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.23-09.39.17:420][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.23-09.39.17:750][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.23-09.39.17:776][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.23-09.39.17:777][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.23-09.39.17:777][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.23-09.39.17:777][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.23-09.39.17:777][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.23-09.39.17:834][  0]LogNetVersion: MutantClash , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 509496756)
+[2018.03.23-09.39.18:258][  0]LogAssetRegistry: FAssetRegistry took 0.0259 seconds to start up
+[2018.03.23-09.39.19:858][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 1.199226 seconds
+[2018.03.23-09.39.19:862][  0]LogUObjectArray: 35877 objects as part of root set at end of initial load.
+[2018.03.23-09.39.19:862][  0]LogUObjectAllocator: 7577640 out of 0 bytes used by permanent object pool.
+[2018.03.23-09.39.19:862][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.23-09.39.26:962][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.23-09.39.26:996][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.23-09.39.28:337][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.23-09.39.28:703][  0]SourceControl: Source control is disabled
+[2018.03.23-09.39.28:703][  0]SourceControl: Source control is disabled
+[2018.03.23-09.39.28:738][  0]SourceControl: Source control is disabled
+[2018.03.23-09.39.28:772][  0]SourceControl: Source control is disabled
+[2018.03.23-09.39.29:485][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.23-09.39.29:656][  0]LogOcInput: OculusInput pre-init called
+[2018.03.23-09.39.29:847][  0]LogEngine: Initializing Engine...
+[2018.03.23-09.39.31:523][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-092C4C2F
+[2018.03.23-09.39.32:027][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.23-09.39.32:027][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.23-09.39.32:112][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.23-09.39.32:130][  0]LogInit: XAudio2 using 'Speakers (Yeti Stereo Microphone)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.23-09.39.32:151][  0]LogInit: FAudioDevice initialized.
+[2018.03.23-09.39.32:226][  0]LogDerivedDataCache: Saved boot cache 0.07s 79MB C:/Users/Owner/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.23-09.39.32:238][  0]LogInit: Texture streaming: Enabled
+[2018.03.23-09.39.32:551][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.23-09.39.32:666][  0]LogInit: Transaction tracking system initialized
+[2018.03.23-09.39.33:383][  0]BlueprintLog: New page: Editor Load
+[2018.03.23-09.39.34:728][  0]LocalizationService: Localization service is disabled
+[2018.03.23-09.39.36:158][  0]LogConsoleResponse: Display: 
+[2018.03.23-09.39.37:695][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.23-09.39.37:695][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.23-09.39.37:695][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.23-09.39.38:476][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealProjects/MutantsClash/Mutant-Clash/Content/' took 0.06s
+[2018.03.23-09.39.40:055][  0]SourceControl: Source control is disabled
+[2018.03.23-09.39.40:055][  0]Cmd: MAP LOAD FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/MutantMaps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.23-09.39.40:055][  0]LightingResults: New page: Lighting Build
+[2018.03.23-09.39.40:086][  0]MapCheck: New page: Map Check
+[2018.03.23-09.39.40:086][  0]LightingResults: New page: Lighting Build
+[2018.03.23-09.39.40:303][  0]LogAIModule: Creating AISystem for world MainMenu
+[2018.03.23-09.39.40:308][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.23-09.39.40:321][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.23-09.39.40:360][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 39.18ms to complete.
+[2018.03.23-09.39.40:360][  0]LogFileHelpers: Loading map 'MainMenu' took 0.305
+[2018.03.23-09.39.40:510][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.23-09.39.40:602][  0]LogCollectionManager: Loaded 0 collections in 0.002230 seconds
+[2018.03.23-09.39.40:673][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealProjects/MutantsClash/Mutant-Clash/Saved/Collections/' took 0.01s
+[2018.03.23-09.39.40:673][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealProjects/MutantsClash/Mutant-Clash/Content/Developers/Owner/Collections/' took 0.01s
+[2018.03.23-09.39.40:673][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealProjects/MutantsClash/Mutant-Clash/Content/Collections/' took 0.01s
+[2018.03.23-09.39.40:673][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.23-09.39.40:682][  0]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2367 classes and 524 folders.
+[2018.03.23-09.39.40:728][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.03.23-09.39.42:074][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.03.23-09.39.42:356][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.03.23-09.39.42:515][  0]LogSlate: Took 0.000387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.23-09.39.42:540][  0]LogSlate: Took 0.022989 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.23-09.39.42:604][  0]LogSlate: Took 0.063862 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.23-09.39.42:636][  0]LogSlate: Took 0.025633 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.03.23-09.39.42:892][  0]LogRenderer: Reallocating scene render targets to support 1088x704 Format 10 NumSamples 1 (Frame:1).
+[2018.03.23-09.39.43:029][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.03.23-09.39.43:029][  0]LogLoad: (Engine Initialization) Total time: 33.82 seconds
+[2018.03.23-09.39.43:029][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.23-09.39.43:029][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.03.23-09.39.43:029][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.03.23-09.39.43:054][  0]LogAssetRegistry: Asset discovery search completed in 24.8179 seconds
+[2018.03.23-09.39.43:056][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.03.23-09.39.43:056][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000157 seconds (updated 0 objects)
+[2018.03.23-09.39.43:063][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.23-09.40.01:371][776]LogSlate: Took 0.007535 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.23-09.40.02:063][776]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.23-09.40.02:130][776]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.03.23-09.40.05:341][988]LogSlate: Took 0.025864 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.23-09.40.51:955][214]LogSlate: Took 0.027845 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.23-09.41.06:091][898]BlueprintLog: New page: Compile Lobby_GM
+[2018.03.23-09.41.06:696][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/Lobby_GM" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_GM.uasset" SILENT=true
+[2018.03.23-09.41.07:879][948]LogSavePackage: Save=12.05ms
+[2018.03.23-09.41.07:879][948]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_GM117E8BBD4DA36991DC9617B9B3F3853F.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_GM.uasset'
+[2018.03.23-09.41.07:887][948]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_GM.uasset
+[2018.03.23-09.41.09:853][170]LogSlate: Took 0.008108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.03.23-09.42.23:597][508]BlueprintLog: New page: Compile Lobby_GM
+[2018.03.23-09.42.24:184][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/Lobby_GM" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_GM.uasset" SILENT=true
+[2018.03.23-09.42.25:576][555]LogSavePackage: Save=12.75ms
+[2018.03.23-09.42.25:576][555]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_GM08CB8CE7410A2B42B32399BAD8A75526.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_GM.uasset'
+[2018.03.23-09.42.25:582][555]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_GM.uasset
+[2018.03.23-09.44.01:014][916]BlueprintLog: New page: Compile Lobby_GM
+[2018.03.23-09.44.01:560][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/Lobby_GM" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_GM.uasset" SILENT=true
+[2018.03.23-09.44.02:950][958]LogSavePackage: Save=13.51ms
+[2018.03.23-09.44.02:951][958]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_GM880A092B4D0000434CC1DFA1B6E6AD4C.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_GM.uasset'
+[2018.03.23-09.44.02:959][958]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_GM.uasset
+[2018.03.23-09.45.12:204][927]BlueprintLog: New page: Compile Lobby_GM
+[2018.03.23-09.45.12:800][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/Lobby_GM" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_GM.uasset" SILENT=true
+[2018.03.23-09.45.13:612][965]LogSavePackage: Save=15.36ms
+[2018.03.23-09.45.13:612][965]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_GM36B554014BA0D8D41AA33A944C1D3813.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_GM.uasset'
+[2018.03.23-09.45.13:618][965]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_GM.uasset
+[2018.03.23-09.45.20:572][741]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.23-09.46.13:066][693]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.23-09.46.14:552][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.23-09.46.14:815][864]LogSavePackage: Save=10.46ms
+[2018.03.23-09.46.14:815][864]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/LobbyMenuA6AC55D643E18A33A8C556BCA328A3AB.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.23-09.46.14:822][864]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.23-09.46.20:920][586]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.23-09.46.21:481][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.23-09.46.21:830][648]LogSavePackage: Save=9.60ms
+[2018.03.23-09.46.21:830][648]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/LobbyMenu79DC4F1B486088602A1A34BF5C4D47B2.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.23-09.46.21:838][648]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.23-09.49.43:510][484]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MutantMaps/MainMenu' took 0.018
+[2018.03.23-09.49.43:514][484]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Lobby/LobbyMenu] ([1] browsable assets)...
+[2018.03.23-09.49.43:514][484]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Lobby/LobbyMenu]
+[2018.03.23-09.49.43:514][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.03.23-09.49.43:674][484]LogSavePackage: Save=10.09ms
+[2018.03.23-09.49.43:674][484]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/LobbyMenu_Auto13C58918C43AD7B809843D392D4C398CF.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto1.uasset'
+[2018.03.23-09.49.43:676][484]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto1.uasset
+[2018.03.23-09.49.43:677][484]LogFileHelpers: Auto-saving content packages took 0.165
+[2018.03.23-09.50.17:217][533]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.23-09.50.17:217][533]LogBlueprint: Warning: [Compiler LobbyMenu] Variable MapImage is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2018.03.23-09.50.17:218][533]LogBlueprint: Warning: [Compiler LobbyMenu] Variable MapTime is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2018.03.23-09.50.17:218][533]LogBlueprint: Warning: [Compiler LobbyMenu] Variable MapName is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2018.03.23-09.50.17:219][533]LogBlueprint: Warning: [Compiler LobbyMenu] Variable MapImage is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2018.03.23-09.50.17:219][533]LogBlueprint: Warning: [Compiler LobbyMenu] Variable MapTime is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2018.03.23-09.50.17:219][533]LogBlueprint: Warning: [Compiler LobbyMenu] Variable MapName is marked as 'Expose on Spawn' but not marked as 'Editable'; please make it 'Editable'
+[2018.03.23-09.50.17:237][533]LogBlueprint: Warning: [Compiler LobbyMenu] [0668.03] Compile of LobbyMenu successful, but with 6 Warning(s) [in 20 ms] (/Game/UI/Lobby/LobbyMenu.LobbyMenu)
+[2018.03.23-09.50.30:520][ 98]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.23-09.50.31:357][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.23-09.50.32:153][192]LogSavePackage: Save=27.07ms
+[2018.03.23-09.50.32:153][192]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/LobbyMenu3AF3FDE348AD98F422397BB8539F5E97.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.23-09.50.32:161][192]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.23-09.54.56:142][503]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.23-09.54.57:873][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.23-09.54.58:980][704]LogSavePackage: Save=12.00ms
+[2018.03.23-09.54.58:980][704]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/LobbyMenuEDB50BFE4C18E6746C5C9BB14EB56137.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.23-09.54.58:987][704]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.23-10.00.29:452][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.23-10.00.29:822][214]LogSavePackage: Save=12.42ms
+[2018.03.23-10.00.29:822][214]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/LobbyMenuDB4A7EA247ED9B96DBDC56812335038C.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.23-10.00.29:825][214]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.23-10.00.52:336][547]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.23-10.00.52:818][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.23-10.00.53:509][598]LogSavePackage: Save=26.18ms
+[2018.03.23-10.00.53:509][598]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/LobbyMenuC534A6444B5713028709C095B3A019BF.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.23-10.00.53:517][598]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.23-10.01.05:663][ 36]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.23-10.01.06:189][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.23-10.01.06:246][ 93]LogSavePackage: Save=13.02ms
+[2018.03.23-10.01.06:246][ 93]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/LobbyMenuC074FAF0444E0EC1F3AB18A798927A61.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.23-10.01.06:253][ 93]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.23-10.01.28:040][497]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.23-10.01.29:119][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.23-10.01.30:080][621]LogSavePackage: Save=15.76ms
+[2018.03.23-10.01.30:080][621]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/LobbyMenu34EA0F06474FD0C63CFA219FD5D17D5A.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.23-10.01.30:088][621]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.23-10.01.35:664][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.23-10.01.36:152][774]LogSavePackage: Save=15.07ms
+[2018.03.23-10.01.36:152][774]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/LobbyMenu659DE0014A13E508F8C373BDB3860200.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.23-10.01.36:155][774]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.23-10.02.11:463][941]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MutantMaps/MainMenu' took 0.016
+[2018.03.23-10.02.11:464][941]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Lobby/LobbyMenu] ([1] browsable assets)...
+[2018.03.23-10.02.11:464][941]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Lobby/LobbyMenu]
+[2018.03.23-10.02.11:464][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.03.23-10.02.12:081][941]LogSavePackage: Save=47.92ms
+[2018.03.23-10.02.12:081][941]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/LobbyMenu_Auto228264BAD45F6312CA0E28E96EFAB04A5.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto2.uasset'
+[2018.03.23-10.02.12:083][941]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto2.uasset
+[2018.03.23-10.02.12:083][941]LogFileHelpers: Auto-saving content packages took 0.620
+[2018.03.23-10.02.49:368][860]BlueprintLog: New page: Compile Lobby_PC
+[2018.03.23-10.02.49:924][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/Lobby_PC" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset" SILENT=true
+[2018.03.23-10.02.50:081][899]LogSavePackage: Save=17.42ms
+[2018.03.23-10.02.50:081][899]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_PC553EEA5F4D3D352A47E8199642026BD0.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset'
+[2018.03.23-10.02.50:126][899]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset
+[2018.03.23-10.03.27:860][932]BlueprintLog: New page: Compile Lobby_PC
+[2018.03.23-10.03.28:450][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/Lobby_PC" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset" SILENT=true
+[2018.03.23-10.03.28:550][977]LogSavePackage: Save=14.82ms
+[2018.03.23-10.03.28:550][977]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_PCD50A62E949A4D21D154F929C7E889453.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset'
+[2018.03.23-10.03.28:553][977]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset
+[2018.03.23-10.03.37:814][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/Lobby_PC" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset" SILENT=true
+[2018.03.23-10.03.37:932][842]LogSavePackage: Save=12.97ms
+[2018.03.23-10.03.37:932][842]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_PCCAED170A4829C863EB949D9A888A9CDC.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset'
+[2018.03.23-10.03.37:946][842]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset
+[2018.03.23-10.03.38:824][945]BlueprintLog: New page: Compile Lobby_PC
+[2018.03.23-10.03.39:549][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/Lobby_PC" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset" SILENT=true
+[2018.03.23-10.03.39:646][  6]LogSavePackage: Save=32.04ms
+[2018.03.23-10.03.39:646][  6]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_PCD82179DF42C1A25961B6BE8D80B99D20.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset'
+[2018.03.23-10.03.39:650][  6]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset
+[2018.03.23-10.05.06:075][276]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.23-10.05.06:566][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.23-10.05.06:854][328]LogSavePackage: Save=13.85ms
+[2018.03.23-10.05.06:854][328]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/LobbyMenu8C35218E4F9FE41C1D80DEA9E603CD3E.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.23-10.05.06:860][328]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.23-10.05.08:244][492]BlueprintLog: New page: Compile Lobby_PC
+[2018.03.23-10.05.08:792][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/Lobby_PC" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset" SILENT=true
+[2018.03.23-10.05.09:032][535]LogSavePackage: Save=11.39ms
+[2018.03.23-10.05.09:032][535]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_PC3F9E1F914429BE98B71B1685276CD43D.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset'
+[2018.03.23-10.05.09:034][535]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset
+[2018.03.23-10.08.48:220][863]BlueprintLog: New page: Compile Lobby_PC
+[2018.03.23-10.08.48:736][897]BlueprintLog: New page: Compile Lobby_PC
+[2018.03.23-10.08.49:188][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/Lobby_PC" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset" SILENT=true
+[2018.03.23-10.08.50:333][925]LogSavePackage: Save=15.22ms
+[2018.03.23-10.08.50:333][925]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_PC5A4973EF42D32072F9B2C28C8DFE38B5.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset'
+[2018.03.23-10.08.50:340][925]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset
+[2018.03.23-10.09.48:009][889]BlueprintLog: New page: Compile Lobby_PC
+[2018.03.23-10.09.48:771][953]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/Lobby_PC" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset" SILENT=true
+[2018.03.23-10.09.49:173][953]LogSavePackage: Save=18.70ms
+[2018.03.23-10.09.49:173][953]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_PCA38D4AE54EF7C9C773A23F9A26CCF708.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset'
+[2018.03.23-10.09.49:181][953]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset
+[2018.03.23-10.12.01:351][453]BlueprintLog: New page: Compile Lobby_PC
+[2018.03.23-10.12.01:968][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/Lobby_PC" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset" SILENT=true
+[2018.03.23-10.12.03:463][498]LogSavePackage: Save=24.82ms
+[2018.03.23-10.12.03:463][498]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_PC876540ED459AA76AE1A8E9AED2097EFF.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset'
+[2018.03.23-10.12.03:471][498]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset
+[2018.03.23-10.12.40:215][635]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MutantMaps/MainMenu' took 0.019
+[2018.03.23-10.12.40:218][635]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Lobby/Lobby_PC] ([1] browsable assets)...
+[2018.03.23-10.12.40:218][635]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Lobby/Lobby_PC]
+[2018.03.23-10.12.41:165][635]LogSavePackage: Save=20.11ms
+[2018.03.23-10.12.41:165][635]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_PC_Auto389B07FE94A3DECFC8A4206ACF75273C5.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Autosaves/Game/Blueprints/Lobby/Lobby_PC_Auto3.uasset'
+[2018.03.23-10.12.41:167][635]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Autosaves/Game/Blueprints/Lobby/Lobby_PC_Auto3.uasset
+[2018.03.23-10.12.41:168][635]LogFileHelpers: Auto-saving content packages took 0.952
+[2018.03.23-10.15.34:475][713]BlueprintLog: New page: Compile Lobby_PC
+[2018.03.23-10.15.35:186][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/Lobby_PC" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset" SILENT=true
+[2018.03.23-10.15.35:998][767]LogSavePackage: Save=20.59ms
+[2018.03.23-10.15.35:999][767]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_PC4975140F405165F1381AF0A0E5F787A4.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset'
+[2018.03.23-10.15.36:006][767]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset
+[2018.03.23-10.16.52:971][ 96]BlueprintLog: New page: Compile Lobby_PC
+[2018.03.23-10.16.53:540][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/Lobby_PC" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset" SILENT=true
+[2018.03.23-10.16.54:093][132]LogSavePackage: Save=23.71ms
+[2018.03.23-10.16.54:093][132]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_PC4F45691740DC472A1CEB93BE5B6EDAD3.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset'
+[2018.03.23-10.16.54:113][132]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset
+[2018.03.23-10.16.56:478][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/Lobby_PC" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset" SILENT=true
+[2018.03.23-10.16.57:189][140]LogSavePackage: Save=41.63ms
+[2018.03.23-10.16.57:189][140]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_PC425D24C94B161E5CEBCE96BC7E7F7757.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset'
+[2018.03.23-10.16.57:191][140]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset
+[2018.03.23-10.22.52:591][304]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MutantMaps/MainMenu' took 0.024
+[2018.03.23-10.22.52:593][304]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Lobby/Lobby_PC] ([1] browsable assets)...
+[2018.03.23-10.22.52:593][304]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Lobby/Lobby_PC]
+[2018.03.23-10.22.53:670][304]LogSavePackage: Save=44.29ms
+[2018.03.23-10.22.53:671][304]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_PC_Auto4642F331645F3DCC1103E4191B822633A.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Autosaves/Game/Blueprints/Lobby/Lobby_PC_Auto4.uasset'
+[2018.03.23-10.22.53:673][304]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Autosaves/Game/Blueprints/Lobby/Lobby_PC_Auto4.uasset
+[2018.03.23-10.22.53:673][304]LogFileHelpers: Auto-saving content packages took 1.080
+[2018.03.23-10.24.33:196][239]BlueprintLog: New page: Compile Lobby_PC
+[2018.03.23-10.24.33:784][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/Lobby_PC" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset" SILENT=true
+[2018.03.23-10.24.34:448][273]LogSavePackage: Save=71.42ms
+[2018.03.23-10.24.34:448][273]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_PC9604086141E139AB26A5F0AEE63C7E4F.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset'
+[2018.03.23-10.24.34:455][273]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset
+[2018.03.23-10.25.11:614][423]BlueprintLog: New page: Compile Lobby_PC
+[2018.03.23-10.25.13:445][569]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/Lobby_PC" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset" SILENT=true
+[2018.03.23-10.25.13:592][569]LogSavePackage: Save=81.02ms
+[2018.03.23-10.25.13:592][569]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_PC267C8DD9433CC592F0AF63A6FBBD574C.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset'
+[2018.03.23-10.25.13:599][569]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset
+[2018.03.23-10.26.07:979][975]BlueprintLog: New page: Compile Lobby_PC
+[2018.03.23-10.26.08:550][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/Lobby_PC" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset" SILENT=true
+[2018.03.23-10.26.10:405][ 11]LogSavePackage: Save=70.09ms
+[2018.03.23-10.26.10:405][ 11]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_PC9013763D41D5C2AFD13286B760C8E3B7.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset'
+[2018.03.23-10.26.10:412][ 11]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset
+[2018.03.23-10.26.48:691][ 77]BlueprintLog: New page: Compile Lobby_PC
+[2018.03.23-10.26.49:427][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/Lobby_PC" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset" SILENT=true
+[2018.03.23-10.26.49:538][127]LogSavePackage: Save=56.76ms
+[2018.03.23-10.26.49:538][127]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_PC0A6EB1CE48B6B7FCD5A2DA88805078E8.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset'
+[2018.03.23-10.26.49:545][127]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset
+[2018.03.23-10.28.54:638][ 31]BlueprintLog: New page: Compile Lobby_PC
+[2018.03.23-10.28.55:404][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/Lobby_PC" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset" SILENT=true
+[2018.03.23-10.28.55:554][ 75]LogSavePackage: Save=61.47ms
+[2018.03.23-10.28.55:554][ 75]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_PC75E9B45F4DB60FA0DABB2D853D5DC769.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset'
+[2018.03.23-10.28.55:561][ 75]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset
+[2018.03.23-10.29.15:300][833]BlueprintLog: New page: Compile Lobby_PC
+[2018.03.23-10.29.16:608][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/Lobby_PC" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset" SILENT=true
+[2018.03.23-10.29.17:246][944]LogSavePackage: Save=54.57ms
+[2018.03.23-10.29.17:246][944]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_PC412891D44CC53B260B5616945D2D43C0.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset'
+[2018.03.23-10.29.17:254][944]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset
+[2018.03.23-10.29.57:133][770]BlueprintLog: New page: Compile Lobby_PC
+[2018.03.23-10.29.57:543][789]BlueprintLog: New page: Compile Lobby_PC
+[2018.03.23-10.29.58:126][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/Lobby_PC" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset" SILENT=true
+[2018.03.23-10.29.58:564][826]LogSavePackage: Save=51.42ms
+[2018.03.23-10.29.58:565][826]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_PCE141FCFB4BF33E3D9BA00FA0F522F26A.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset'
+[2018.03.23-10.29.58:573][826]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset
+[2018.03.23-10.30.46:814][ 79]BlueprintLog: New page: Compile Lobby_PC
+[2018.03.23-10.30.47:529][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/Lobby_PC" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset" SILENT=true
+[2018.03.23-10.30.47:757][124]LogSavePackage: Save=62.58ms
+[2018.03.23-10.30.47:758][124]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_PC82D9BFD743112E86DC4294B2BD40176A.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset'
+[2018.03.23-10.30.47:764][124]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset
+[2018.03.23-10.31.08:576][ 77]BlueprintLog: New page: Compile Lobby_PC
+[2018.03.23-10.31.09:218][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/Lobby_PC" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset" SILENT=true
+[2018.03.23-10.31.09:469][112]LogSavePackage: Save=82.56ms
+[2018.03.23-10.31.09:470][112]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_PCAA74F8CE45FA26ACF59F5ABC51C3561F.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset'
+[2018.03.23-10.31.09:478][112]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset
+[2018.03.23-10.31.22:277][324]BlueprintLog: New page: Compile Lobby_PC
+[2018.03.23-10.31.22:870][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/Lobby_PC" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset" SILENT=true
+[2018.03.23-10.31.23:417][356]LogSavePackage: Save=60.43ms
+[2018.03.23-10.31.23:417][356]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_PC8F3182644BA8D121789083998690AC84.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset'
+[2018.03.23-10.31.23:424][356]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset
+[2018.03.23-10.31.47:190][438]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.23-10.32.08:371][279]BlueprintLog: New page: Compile Lobby_PC
+[2018.03.23-10.32.09:383][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/Lobby_PC" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset" SILENT=true
+[2018.03.23-10.32.09:827][349]LogSavePackage: Save=86.62ms
+[2018.03.23-10.32.09:827][349]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_PC5ECF39564F199C23BA7BF59FED6981E9.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset'
+[2018.03.23-10.32.09:834][349]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset
+[2018.03.23-10.33.07:748][116]BlueprintLog: New page: Compile Lobby_PC
+[2018.03.23-10.33.08:327][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/Lobby_PC" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset" SILENT=true
+[2018.03.23-10.33.08:528][146]LogSavePackage: Save=81.91ms
+[2018.03.23-10.33.08:528][146]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_PC6087E01A48A96C37260127B010B6DE5D.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset'
+[2018.03.23-10.33.08:536][146]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset
+[2018.03.23-10.34.50:862][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/Lobby_PC" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset" SILENT=true
+[2018.03.23-10.34.51:599][794]LogSavePackage: Save=71.77ms
+[2018.03.23-10.34.51:599][794]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_PCAFE6CB0D48F4A9F9EE3C638F4E50F803.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset'
+[2018.03.23-10.34.51:646][794]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset
+[2018.03.23-10.34.52:052][832]BlueprintLog: New page: Compile Lobby_PC
+[2018.03.23-10.34.53:066][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/Lobby_PC" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset" SILENT=true
+[2018.03.23-10.34.53:208][894]LogSavePackage: Save=85.36ms
+[2018.03.23-10.34.53:208][894]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_PCE9775B3F465C655D3C6AAE8E163366D6.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset'
+[2018.03.23-10.34.53:211][894]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset
+[2018.03.23-10.35.21:898][167]BlueprintLog: New page: Compile Lobby_PC
+[2018.03.23-10.35.22:538][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/Lobby_PC" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset" SILENT=true
+[2018.03.23-10.35.23:187][202]LogSavePackage: Save=79.14ms
+[2018.03.23-10.35.23:187][202]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_PCE37C62DB41F6BEBE17F98E828A150115.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset'
+[2018.03.23-10.35.23:195][202]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset
+[2018.03.23-10.36.18:910][838]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MutantMaps/MainMenu' took 0.017
+[2018.03.23-10.36.18:912][838]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Lobby/Lobby_PC] ([1] browsable assets)...
+[2018.03.23-10.36.18:913][838]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Lobby/Lobby_PC]
+[2018.03.23-10.36.19:295][838]LogSavePackage: Save=91.68ms
+[2018.03.23-10.36.19:295][838]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_PC_Auto58427A9D3467E15590C788B876B5B83D6.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Autosaves/Game/Blueprints/Lobby/Lobby_PC_Auto5.uasset'
+[2018.03.23-10.36.19:298][838]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Autosaves/Game/Blueprints/Lobby/Lobby_PC_Auto5.uasset
+[2018.03.23-10.36.19:298][838]LogFileHelpers: Auto-saving content packages took 0.387
+[2018.03.23-10.38.25:041][468]BlueprintLog: New page: Compile Lobby_PC
+[2018.03.23-10.38.25:689][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/Lobby_PC" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset" SILENT=true
+[2018.03.23-10.38.26:150][508]LogSavePackage: Save=343.29ms
+[2018.03.23-10.38.26:150][508]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_PCD5C06AAA435D59B0BA0E3FB9C51BC73C.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset'
+[2018.03.23-10.38.26:157][508]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset
+[2018.03.23-10.43.29:105][943]BlueprintLog: New page: Compile Lobby_PC
+[2018.03.23-10.43.29:967][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/Lobby_PC" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset" SILENT=true
+[2018.03.23-10.43.30:126][  0]LogSavePackage: Save=80.44ms
+[2018.03.23-10.43.30:126][  0]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_PCCC4BEC5A4D459779EE1BB594410B6CC7.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset'
+[2018.03.23-10.43.30:133][  0]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset
+[2018.03.23-10.46.19:961][863]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MutantMaps/MainMenu' took 0.020
+[2018.03.23-10.46.19:963][863]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Lobby/Lobby_PC] ([1] browsable assets)...
+[2018.03.23-10.46.19:964][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Lobby/Lobby_PC]
+[2018.03.23-10.46.20:980][863]LogSavePackage: Save=101.28ms
+[2018.03.23-10.46.20:980][863]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_PC_Auto628CDA78044AE9553031A69AF89B2A745.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Autosaves/Game/Blueprints/Lobby/Lobby_PC_Auto6.uasset'
+[2018.03.23-10.46.20:982][863]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Autosaves/Game/Blueprints/Lobby/Lobby_PC_Auto6.uasset
+[2018.03.23-10.46.20:982][863]LogFileHelpers: Auto-saving content packages took 1.020
+[2018.03.23-10.54.13:803][879]BlueprintLog: New page: Compile Lobby_PC
+[2018.03.23-10.54.14:505][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/Lobby_PC" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset" SILENT=true
+[2018.03.23-10.54.15:443][929]LogSavePackage: Save=114.93ms
+[2018.03.23-10.54.15:443][929]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Lobby_PCFAF2BB774CBD0AA09CEDEF8B53996B9E.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset'
+[2018.03.23-10.54.15:450][929]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/Blueprints/Lobby/Lobby_PC.uasset
+[2018.03.23-10.54.49:948][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.CanvasPanel_0
+[2018.03.23-10.54.49:948][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/MainMenu.MainMenu:WidgetTree.CanvasPanel_0
+[2018.03.23-10.54.49:949][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/OptionsMenu.OptionsMenu:WidgetTree.CanvasPanel_0
+[2018.03.23-10.54.49:949][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/ServerMenu.ServerMenu:WidgetTree.CanvasPanel_0
+[2018.03.23-10.54.49:949][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/HostMenu.SKEL_HostMenu_C:WidgetTree.CanvasPanel_0
+[2018.03.23-10.54.49:949][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/AllLevels/LoadingScreen.SKEL_LoadingScreen_C:WidgetTree.CanvasPanel_0
+[2018.03.23-10.54.49:950][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/MainMenu.SKEL_MainMenu_C:WidgetTree.CanvasPanel_0
+[2018.03.23-10.54.49:950][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:WidgetTree.CanvasPanel_0
+[2018.03.23-10.54.49:950][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/ServerMenu.SKEL_ServerMenu_C:WidgetTree.CanvasPanel_0
+[2018.03.23-10.54.49:950][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/HostMenu.HostMenu_C:WidgetTree.CanvasPanel_0
+[2018.03.23-10.54.49:951][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen_C:WidgetTree.CanvasPanel_0
+[2018.03.23-10.54.49:951][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/MainMenu.MainMenu_C:WidgetTree.CanvasPanel_0
+[2018.03.23-10.54.49:951][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:WidgetTree.CanvasPanel_0
+[2018.03.23-10.54.49:951][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu/ServerMenu.ServerMenu_C:WidgetTree.CanvasPanel_0
+[2018.03.23-10.54.49:951][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.CanvasPanel_0
+[2018.03.23-10.54.49:952][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:LobbyMenu_C_10.WidgetTree_18.CanvasPanel_0
+[2018.03.23-10.54.49:952][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:LobbyMenu_C_13.WidgetTree_21.CanvasPanel_0
+[2018.03.23-10.54.49:952][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:LobbyMenu_C_12.WidgetTree_20.CanvasPanel_0
+[2018.03.23-10.54.49:952][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:LobbyMenu_C_7.WidgetTree_15.CanvasPanel_0
+[2018.03.23-10.54.49:952][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:LobbyMenu_C_8.WidgetTree_16.CanvasPanel_0
+[2018.03.23-10.54.49:953][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:LobbyMenu_C_2.WidgetTree_2.CanvasPanel_0
+[2018.03.23-10.54.49:953][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:LobbyMenu_C_3.WidgetTree_3.CanvasPanel_0
+[2018.03.23-10.54.49:953][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:LobbyMenu_C_4.WidgetTree_4.CanvasPanel_0
+[2018.03.23-10.54.49:953][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:LobbyMenu_C_5.WidgetTree_5.CanvasPanel_0
+[2018.03.23-10.54.49:953][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:LobbyMenu_C_6.WidgetTree_6.CanvasPanel_0
+[2018.03.23-10.54.49:954][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:LobbyMenu_C_9.WidgetTree_17.CanvasPanel_0
+[2018.03.23-10.54.49:954][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_LobbyMenu_C_13:WidgetTree.CanvasPanel_0
+[2018.03.23-10.54.49:954][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:LobbyMenu_C_11.WidgetTree_19.CanvasPanel_0
+[2018.03.23-10.54.49:954][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:LobbyMenu_C_55.WidgetTree_91.CanvasPanel_0
+[2018.03.23-10.54.49:954][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:LobbyMenu_C_14.WidgetTree_22.CanvasPanel_0
+[2018.03.23-10.54.49:955][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:LobbyMenu_C_15.WidgetTree_23.CanvasPanel_0
+[2018.03.23-10.54.49:955][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:LobbyMenu_C_16.WidgetTree_37.CanvasPanel_0
+[2018.03.23-10.54.49:955][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:LobbyMenu_C_17.WidgetTree_38.CanvasPanel_0
+[2018.03.23-10.54.49:955][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:LobbyMenu_C_18.WidgetTree_39.CanvasPanel_0
+[2018.03.23-10.54.49:956][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:LobbyMenu_C_19.WidgetTree_40.CanvasPanel_0
+[2018.03.23-10.54.49:956][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:LobbyMenu_C_20.WidgetTree_43.CanvasPanel_0
+[2018.03.23-10.54.49:956][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_LobbyMenu_C_45:WidgetTree.CanvasPanel_0
+[2018.03.23-10.54.49:957][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_LobbyMenu_C_34:WidgetTree.CanvasPanel_0
+[2018.03.23-10.54.49:957][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:LobbyMenu_C_22.WidgetTree_47.CanvasPanel_0
+[2018.03.23-10.54.49:957][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:LobbyMenu_C_21.WidgetTree_44.CanvasPanel_0
+[2018.03.23-10.54.49:957][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_LobbyMenu_C_49:WidgetTree.CanvasPanel_0
+[2018.03.23-10.54.49:958][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:LobbyMenu_C_26.WidgetTree_53.CanvasPanel_0
+[2018.03.23-10.54.49:958][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:LobbyMenu_C_23.WidgetTree_48.CanvasPanel_0
+[2018.03.23-10.54.49:958][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:LobbyMenu_C_24.WidgetTree_49.CanvasPanel_0
+[2018.03.23-10.54.49:958][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:LobbyMenu_C_25.WidgetTree_50.CanvasPanel_0
+[2018.03.23-10.54.49:959][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_LobbyMenu_C_53:WidgetTree.CanvasPanel_0
+[2018.03.23-10.54.49:959][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:MainMenu_C_1.WidgetTree_93.CanvasPanel_0
+[2018.03.23-10.54.49:959][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_LobbyMenu_C_56:WidgetTree.CanvasPanel_0
+[2018.03.23-10.54.49:959][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_7:MainMenu_C_0.WidgetTree_92.CanvasPanel_0
+[2018.03.23-10.54.49:960][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu_C:WidgetTree.CanvasPanel_0
+[2018.03.23-10.54.49:960][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/AllLevels/LoadingScreen.LoadingScreen:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_3:LobbyMenu_C_56.WidgetTree_94.CanvasPanel_0
+[2018.03.23-10.54.49:960][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/MainMenu/MainMenu.MainMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.03.23-10.54.49:961][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/MainMenu/OptionsMenu.OptionsMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.03.23-10.54.49:961][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/MainMenu/ServerMenu.ServerMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.03.23-10.54.49:961][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/MainMenu/HostMenu.SKEL_HostMenu_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.03.23-10.54.49:961][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/MainMenu/MainMenu.SKEL_MainMenu_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.03.23-10.54.49:961][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.03.23-10.54.49:962][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/MainMenu/ServerMenu.SKEL_ServerMenu_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.03.23-10.54.49:962][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/MainMenu/HostMenu.HostMenu_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.03.23-10.54.49:962][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/MainMenu/MainMenu.MainMenu_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.03.23-10.54.49:963][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.03.23-10.54.49:963][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Game/UI/MainMenu/ServerMenu.ServerMenu_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0
+[2018.03.23-10.54.49:963][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Engine/Transient.World_7:MainMenu_C_0.WidgetTree_92.CanvasPanel_0.CanvasPanelSlot_0
+[2018.03.23-10.54.49:963][455]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0 or CanvasPanelSlot /Engine/Transient.World_7:MainMenu_C_1.WidgetTree_93.CanvasPanel_0.CanvasPanelSlot_0
+[2018.03.23-10.54.49:981][455]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0) from referencer (Border /Engine/UMG/Editor/Transient.Border_0).  Import failed...
+[2018.03.23-10.54.49:982][455]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_0"''
+[2018.03.23-10.54.56:020][833]LogSlate: Took 0.157535 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.03.23-10.55.12:328][801]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.23-10.55.13:002][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.23-10.55.13:544][835]LogSavePackage: Save=64.73ms
+[2018.03.23-10.55.13:544][835]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/LobbyMenuD47DFE44477205C977EB39BB7E5B5467.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.23-10.55.13:550][835]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.23-10.56.45:389][846]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MutantMaps/MainMenu' took 0.057
+[2018.03.23-10.56.45:392][846]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Lobby/LobbyMenu] ([1] browsable assets)...
+[2018.03.23-10.56.45:392][846]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Lobby/LobbyMenu]
+[2018.03.23-10.56.45:392][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2018.03.23-10.56.45:827][846]LogSavePackage: Save=26.22ms
+[2018.03.23-10.56.45:827][846]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/LobbyMenu_Auto72A72F196463D7428C2680B9FF92EF0CC.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto7.uasset'
+[2018.03.23-10.56.45:830][846]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto7.uasset
+[2018.03.23-10.56.45:830][846]LogFileHelpers: Auto-saving content packages took 0.439
+[2018.03.23-10.57.21:212][616]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/Engine/Blueprints/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2018.03.23-11.01.35:346][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.23-11.01.35:809][468]LogSavePackage: Save=26.03ms
+[2018.03.23-11.01.35:809][468]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/LobbyMenu8D80ECD6485D688B8F0F4C854E6BA97B.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.23-11.01.35:817][468]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.23-11.01.36:212][493]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.23-11.01.38:113][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.23-11.01.38:623][532]LogSavePackage: Save=30.40ms
+[2018.03.23-11.01.38:624][532]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/LobbyMenuB32AC3AC449E51F50346638D88F42909.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.23-11.01.38:627][532]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.23-11.07.02:981][ 84]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MutantMaps/MainMenu' took 0.022
+[2018.03.23-11.07.02:983][ 84]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Lobby/LobbyMenu] ([1] browsable assets)...
+[2018.03.23-11.07.02:983][ 84]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Lobby/LobbyMenu]
+[2018.03.23-11.07.02:983][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2018.03.23-11.07.04:034][ 84]LogSavePackage: Save=28.29ms
+[2018.03.23-11.07.04:035][ 84]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/LobbyMenu_Auto8E866DB5A43F143AE2ECD4F8CE4355CB8.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto8.uasset'
+[2018.03.23-11.07.04:036][ 84]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto8.uasset
+[2018.03.23-11.07.04:037][ 84]LogFileHelpers: Auto-saving content packages took 1.054
+[2018.03.23-11.09.23:139][534]LogEditorTransaction: Undo Add Widget
+[2018.03.23-11.10.02:430][640]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.HorizontalBox_1 or HorizontalBox /Game/UI/MainMenu/OptionsMenu.OptionsMenu:WidgetTree.HorizontalBox_1
+[2018.03.23-11.10.02:430][640]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.HorizontalBox_1 or HorizontalBox /Game/UI/MainMenu/HostMenu.SKEL_HostMenu_C:WidgetTree.HorizontalBox_1
+[2018.03.23-11.10.02:430][640]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.HorizontalBox_1 or HorizontalBox /Game/UI/MainMenu/OptionsMenu.SKEL_OptionsMenu_C:WidgetTree.HorizontalBox_1
+[2018.03.23-11.10.02:431][640]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.HorizontalBox_1 or HorizontalBox /Game/UI/MainMenu/HostMenu.HostMenu_C:WidgetTree.HorizontalBox_1
+[2018.03.23-11.10.02:431][640]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.HorizontalBox_1 or HorizontalBox /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:WidgetTree.HorizontalBox_1
+[2018.03.23-11.10.02:431][640]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.HorizontalBox_1 or HorizontalBox /Engine/Transient.World_3:LobbyMenu_C_42.WidgetTree_118.HorizontalBox_1
+[2018.03.23-11.10.02:432][640]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.HorizontalBox_1 or HorizontalBox /Engine/Transient.World_3:LobbyMenu_C_43.WidgetTree_119.HorizontalBox_1
+[2018.03.23-11.10.02:432][640]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.HorizontalBox_1 or HorizontalBox /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.HorizontalBox_1
+[2018.03.23-11.10.02:432][640]LogProperty: Warning: Illegal TEXT reference to a private object in external package (HorizontalBoxSlot /Game/UI/MainMenu/HostMenu.HostMenu:WidgetTree.HorizontalBox_1.HorizontalBoxSlot_2) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_2).  Import failed...
+[2018.03.23-11.10.02:433][640]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'HorizontalBoxSlot'"HorizontalBox_1.HorizontalBoxSlot_2"''
+[2018.03.23-11.10.42:882][283]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.VerticalBox_2 or VerticalBox /Engine/Transient.World_3:LobbyMenu_C_41.WidgetTree_117.VerticalBox_2
+[2018.03.23-11.10.42:883][283]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.VerticalBox_2 or VerticalBox /Engine/Transient.World_3:LobbyMenu_C_42.WidgetTree_118.VerticalBox_2
+[2018.03.23-11.10.42:883][283]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.VerticalBox_2 or VerticalBox /Engine/Transient.World_3:LobbyMenu_C_43.WidgetTree_119.VerticalBox_2
+[2018.03.23-11.10.42:883][283]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.VerticalBox_2 or VerticalBox /Engine/Transient.World_3:LobbyMenu_C_44.WidgetTree_120.VerticalBox_2
+[2018.03.23-11.10.42:883][283]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.VerticalBox_2.VerticalBoxSlot_4) from referencer (HorizontalBox /Engine/UMG/Editor/Transient.HorizontalBox_1).  Import failed...
+[2018.03.23-11.10.42:884][283]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_2.VerticalBoxSlot_4"''
+[2018.03.23-11.12.38:982][331]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.23-11.12.40:433][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.23-11.12.40:540][358]LogSavePackage: Save=36.41ms
+[2018.03.23-11.12.40:541][358]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/LobbyMenuD358F94244F22F460E64A695053C8C78.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.23-11.12.40:547][358]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.23-11.15.15:979][941]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_3:LobbyMenu_C_33.WidgetTree_108.GridPanel_0
+[2018.03.23-11.15.15:979][941]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_3:LobbyMenu_C_34.WidgetTree_109.GridPanel_0
+[2018.03.23-11.15.15:979][941]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_3:LobbyMenu_C_35.WidgetTree_110.GridPanel_0
+[2018.03.23-11.15.15:979][941]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_3:LobbyMenu_C_36.WidgetTree_111.GridPanel_0
+[2018.03.23-11.15.15:979][941]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_3:LobbyMenu_C_37.WidgetTree_112.GridPanel_0
+[2018.03.23-11.15.15:980][941]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_3:LobbyMenu_C_38.WidgetTree_114.GridPanel_0
+[2018.03.23-11.15.15:980][941]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_3:LobbyMenu_C_39.WidgetTree_125.GridPanel_0
+[2018.03.23-11.15.15:980][941]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_3:LobbyMenu_C_40.WidgetTree_126.GridPanel_0
+[2018.03.23-11.15.15:980][941]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_3:LobbyMenu_C_41.WidgetTree_117.GridPanel_0
+[2018.03.23-11.15.15:980][941]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_3:LobbyMenu_C_42.WidgetTree_118.GridPanel_0
+[2018.03.23-11.15.15:980][941]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_3:LobbyMenu_C_43.WidgetTree_119.GridPanel_0
+[2018.03.23-11.15.15:981][941]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_3:LobbyMenu_C_44.WidgetTree_120.GridPanel_0
+[2018.03.23-11.15.15:981][941]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_3:LobbyMenu_C_45.WidgetTree_121.GridPanel_0
+[2018.03.23-11.15.15:981][941]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu_C:WidgetTree.GridPanel_0
+[2018.03.23-11.15.15:981][941]LogUObjectHash: Warning: Ambiguous search, could be GridPanel /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0 or GridPanel /Engine/Transient.World_3:LobbyMenu_C_32.WidgetTree_123.GridPanel_0
+[2018.03.23-11.15.15:981][941]LogProperty: Warning: Illegal TEXT reference to a private object in external package (GridSlot /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.GridPanel_0.GridSlot_0) from referencer (Border /Engine/UMG/Editor/Transient.LobbySettings).  Import failed...
+[2018.03.23-11.15.15:982][941]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'GridSlot'"GridPanel_0.GridSlot_0"''
+[2018.03.23-11.17.20:486][428]LogUObjectHash: Warning: Ambiguous search, could be HorizontalBox /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.HorizontalBox_6 or HorizontalBox /Engine/Transient.World_3:LobbyMenu_C_51.WidgetTree_132.HorizontalBox_6
+[2018.03.23-11.17.20:487][428]LogProperty: Warning: Illegal TEXT reference to a private object in external package (HorizontalBoxSlot /Game/UI/Lobby/LobbyMenu.LobbyMenu:WidgetTree.HorizontalBox_6.HorizontalBoxSlot_4) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_10).  Import failed...
+[2018.03.23-11.17.20:487][428]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'HorizontalBoxSlot'"HorizontalBox_6.HorizontalBoxSlot_4"''
+[2018.03.23-11.17.23:341][594]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MutantMaps/MainMenu' took 0.023
+[2018.03.23-11.17.23:343][594]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Lobby/LobbyMenu] ([1] browsable assets)...
+[2018.03.23-11.17.23:343][594]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Lobby/LobbyMenu]
+[2018.03.23-11.17.23:343][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2018.03.23-11.17.23:706][594]LogSavePackage: Save=60.91ms
+[2018.03.23-11.17.23:706][594]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/LobbyMenu_Auto962748A704E28E8518EDC929C2A3F6599.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto9.uasset'
+[2018.03.23-11.17.23:711][594]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/Autosaves/Game/UI/Lobby/LobbyMenu_Auto9.uasset
+[2018.03.23-11.17.23:711][594]LogFileHelpers: Auto-saving content packages took 0.368
+[2018.03.23-11.19.40:700][133]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.23-11.19.41:395][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.23-11.19.41:552][168]LogSavePackage: Save=70.70ms
+[2018.03.23-11.19.41:552][168]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/LobbyMenu6A759C6F4CC73E1497DB3393ABFDED17.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.23-11.19.41:560][168]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.23-11.22.55:359][930]BlueprintLog: New page: Compile LobbyMenu
+[2018.03.23-11.22.56:333][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.23-11.22.56:425][989]LogSavePackage: Save=45.72ms
+[2018.03.23-11.22.56:425][989]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/LobbyMenuC01B33624565A82866603A84C678CB70.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.23-11.22.56:431][989]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.23-11.23.15:867][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lobby/LobbyMenu" FILE="../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset" SILENT=true
+[2018.03.23-11.23.16:005][214]LogSavePackage: Save=42.58ms
+[2018.03.23-11.23.16:005][214]LogSavePackage: Moving '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Saved/LobbyMenu47CE0CB34A0C597CE404BA87D660DD4C.tmp' to '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset'
+[2018.03.23-11.23.16:007][214]LogSavePackage: Display: Finished SavePackage ../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/UI/Lobby/LobbyMenu.uasset
+[2018.03.23-11.24.37:491][826]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.03.23-11.24.46:110][217]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.23-11.24.47:588][218]Cmd: QUIT_EDITOR
+[2018.03.23-11.24.48:574][218]LogExit: Preparing to exit.
+[2018.03.23-11.24.50:207][218]LogDirectoryWatcher: A directory notification for 'E:/UnrealProjects/MutantsClash/Mutant-Clash/Content/' was aborted.
+[2018.03.23-11.24.50:652][218]LogExit: Editor shut down
+[2018.03.23-11.24.50:680][218]LogExit: Transaction tracking system shut down
+[2018.03.23-11.24.51:889][218]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.03.23-11.24.51:889][218]LogDirectoryWatcher: A directory notification for '../../../../../UnrealProjects/MutantsClash/Mutant-Clash/Content/' was aborted.
+[2018.03.23-11.24.51:889][218]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.03.23-11.24.51:889][218]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.03.23-11.24.51:889][218]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.03.23-11.24.51:889][218]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.03.23-11.24.51:889][218]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.03.23-11.24.55:253][218]LogExit: Object subsystem successfully closed.
+[2018.03.23-11.24.56:056][218]LogD3D11RHI: Shutdown
+[2018.03.23-11.24.56:070][218]LogD3D11RHI: CleanupD3DDevice
+[2018.03.23-11.24.56:180][218]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.03.23-11.24.58:605][218]LogModuleManager: Shutting down and abandoning module SequencerWidgets (556)
+[2018.03.23-11.24.58:605][218]LogModuleManager: Shutting down and abandoning module BlueprintGraph (554)
+[2018.03.23-11.24.58:605][218]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (552)
+[2018.03.23-11.24.58:605][218]LogModuleManager: Shutting down and abandoning module DesktopPlatform (550)
+[2018.03.23-11.24.58:630][218]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2018.03.23-11.24.58:638][218]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2018.03.23-11.24.58:648][218]LogDirectoryWatcher: A directory notification for 'E:/UE418/UE_4.18/FeaturePacks/' was aborted.
+[2018.03.23-11.24.58:655][218]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2018.03.23-11.24.58:656][218]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2018.03.23-11.24.58:656][218]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2018.03.23-11.24.58:690][218]LogDirectoryWatcher: A directory notification for 'E:/UnrealProjects/MutantsClash/Mutant-Clash/Content/Collections/' was aborted.
+[2018.03.23-11.24.58:690][218]LogDirectoryWatcher: A directory notification for 'E:/UnrealProjects/MutantsClash/Mutant-Clash/Content/Developers/Owner/Collections/' was aborted.
+[2018.03.23-11.24.58:690][218]LogDirectoryWatcher: A directory notification for 'E:/UnrealProjects/MutantsClash/Mutant-Clash/Saved/Collections/' was aborted.
+[2018.03.23-11.24.58:690][218]LogModuleManager: Shutting down and abandoning module StatsViewer (538)
+[2018.03.23-11.24.58:737][218]LogModuleManager: Shutting down and abandoning module FoliageEdit (536)
+[2018.03.23-11.24.58:774][218]LogModuleManager: Shutting down and abandoning module LandscapeEditor (534)
+[2018.03.23-11.24.58:912][218]LogModuleManager: Shutting down and abandoning module MeshPaintMode (532)
+[2018.03.23-11.24.58:950][218]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (530)
+[2018.03.23-11.24.58:950][218]LogModuleManager: Shutting down and abandoning module ActorPickerMode (528)
+[2018.03.23-11.24.58:950][218]LogModuleManager: Shutting down and abandoning module GeometryMode (526)
+[2018.03.23-11.24.58:951][218]LogModuleManager: Shutting down and abandoning module TextureAlignMode (524)
+[2018.03.23-11.24.58:951][218]LogModuleManager: Shutting down and abandoning module BspMode (522)
+[2018.03.23-11.24.58:951][218]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (520)
+[2018.03.23-11.24.58:951][218]LogModuleManager: Shutting down and abandoning module HardwareSurvey (518)
+[2018.03.23-11.24.58:951][218]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (516)
+[2018.03.23-11.24.58:968][218]LogModuleManager: Shutting down and abandoning module AutomationWorker (514)
+[2018.03.23-11.24.59:025][218]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (512)
+[2018.03.23-11.24.59:052][218]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (510)
+[2018.03.23-11.24.59:142][218]LogModuleManager: Shutting down and abandoning module PlacementMode (509)
+[2018.03.23-11.24.59:142][218]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (506)
+[2018.03.23-11.24.59:142][218]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (504)
+[2018.03.23-11.24.59:142][218]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (502)
+[2018.03.23-11.24.59:142][218]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (500)
+[2018.03.23-11.24.59:142][218]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (498)
+[2018.03.23-11.24.59:142][218]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (496)
+[2018.03.23-11.24.59:142][218]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (494)
+[2018.03.23-11.24.59:142][218]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (492)
+[2018.03.23-11.24.59:142][218]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (490)
+[2018.03.23-11.24.59:142][218]LogModuleManager: Shutting down and abandoning module CharacterAI (488)
+[2018.03.23-11.24.59:142][218]LogModuleManager: Shutting down and abandoning module AudioCapture (486)
+[2018.03.23-11.24.59:150][218]LogModuleManager: Shutting down and abandoning module SequenceRecorder (485)
+[2018.03.23-11.24.59:169][218]LogModuleManager: Shutting down and abandoning module SmartSnapping (482)
+[2018.03.23-11.24.59:169][218]LogModuleManager: Shutting down and abandoning module SessionServices (480)
+[2018.03.23-11.24.59:169][218]LogModuleManager: Shutting down and abandoning module ViewportSnapping (478)
+[2018.03.23-11.24.59:169][218]LogModuleManager: Shutting down and abandoning module ViewportInteraction (476)
+[2018.03.23-11.24.59:169][218]LogModuleManager: Shutting down and abandoning module ClothPainter (474)
+[2018.03.23-11.24.59:234][218]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (473)
+[2018.03.23-11.24.59:346][218]LogModuleManager: Shutting down and abandoning module LogVisualizer (470)
+[2018.03.23-11.24.59:476][218]LogModuleManager: Shutting down and abandoning module IntroTutorials (468)
+[2018.03.23-11.24.59:596][218]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (467)
+[2018.03.23-11.24.59:646][218]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (464)
+[2018.03.23-11.24.59:646][218]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (462)
+[2018.03.23-11.24.59:646][218]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (460)
+[2018.03.23-11.24.59:646][218]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (459)
+[2018.03.23-11.25.00:280][218]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (456)
+[2018.03.23-11.25.00:280][218]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (454)
+[2018.03.23-11.25.00:280][218]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (452)
+[2018.03.23-11.25.00:280][218]LogModuleManager: Shutting down and abandoning module InputBindingEditor (450)
+[2018.03.23-11.25.00:316][218]LogModuleManager: Shutting down and abandoning module MergeActors (448)
+[2018.03.23-11.25.00:350][218]LogModuleManager: Shutting down and abandoning module SizeMap (446)
+[2018.03.23-11.25.00:350][218]LogModuleManager: Shutting down and abandoning module TreeMap (444)
+[2018.03.23-11.25.00:377][218]LogModuleManager: Shutting down and abandoning module ReferenceViewer (442)
+[2018.03.23-11.25.00:377][218]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (440)
+[2018.03.23-11.25.00:424][218]LogModuleManager: Shutting down and abandoning module LocalizationService (439)
+[2018.03.23-11.25.00:438][218]LogModuleManager: Shutting down and abandoning module HardwareTargeting (436)
+[2018.03.23-11.25.00:438][218]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (434)
+[2018.03.23-11.25.00:438][218]LogModuleManager: Shutting down and abandoning module UndoHistory (432)
+[2018.03.23-11.25.00:438][218]LogModuleManager: Shutting down and abandoning module XmlParser (430)
+[2018.03.23-11.25.00:444][218]LogModuleManager: Shutting down and abandoning module Blutility (428)
+[2018.03.23-11.25.00:453][218]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (426)
+[2018.03.23-11.25.00:453][218]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (425)
+[2018.03.23-11.25.00:453][218]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (422)
+[2018.03.23-11.25.00:453][218]LogModuleManager: Shutting down and abandoning module SettingsEditor (420)
+[2018.03.23-11.25.00:530][218]LogModuleManager: Shutting down and abandoning module ProjectLauncher (418)
+[2018.03.23-11.25.00:582][218]LogModuleManager: Shutting down and abandoning module SessionFrontend (416)
+[2018.03.23-11.25.00:641][218]LogModuleManager: Shutting down and abandoning module ProfilerClient (414)
+[2018.03.23-11.25.00:652][218]LogModuleManager: Shutting down and abandoning module DeviceManager (412)
+[2018.03.23-11.25.00:666][218]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (411)
+[2018.03.23-11.25.00:741][218]LogModuleManager: Shutting down and abandoning module AutomationController (408)
+[2018.03.23-11.25.00:801][218]LogModuleManager: Shutting down and abandoning module AutomationWindow (406)
+[2018.03.23-11.25.00:829][218]LogModuleManager: Shutting down and abandoning module Layers (404)
+[2018.03.23-11.25.00:855][218]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (402)
+[2018.03.23-11.25.00:855][218]LogModuleManager: Shutting down and abandoning module DetailCustomizations (400)
+[2018.03.23-11.25.00:914][218]LogModuleManager: Shutting down and abandoning module PackagesDialog (398)
+[2018.03.23-11.25.00:965][218]LogModuleManager: Shutting down and abandoning module Persona (396)
+[2018.03.23-11.25.01:049][218]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (395)
+[2018.03.23-11.25.01:049][218]LogModuleManager: Shutting down and abandoning module AnimGraph (393)
+[2018.03.23-11.25.01:049][218]LogModuleManager: Shutting down and abandoning module Kismet (390)
+[2018.03.23-11.25.01:142][218]LogModuleManager: Shutting down and abandoning module ClassViewer (388)
+[2018.03.23-11.25.01:143][218]LogModuleManager: Shutting down and abandoning module Toolbox (386)
+[2018.03.23-11.25.01:144][218]LogModuleManager: Shutting down and abandoning module ModuleUI (384)
+[2018.03.23-11.25.01:162][218]LogModuleManager: Shutting down and abandoning module MovieSceneTools (382)
+[2018.03.23-11.25.01:206][218]LogModuleManager: Shutting down and abandoning module OutputLog (380)
+[2018.03.23-11.25.01:206][218]LogModuleManager: Shutting down and abandoning module GammaUI (378)
+[2018.03.23-11.25.01:215][218]LogModuleManager: Shutting down and abandoning module Documentation (376)
+[2018.03.23-11.25.01:216][218]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (374)
+[2018.03.23-11.25.01:233][218]LogModuleManager: Shutting down and abandoning module MovieScene (372)
+[2018.03.23-11.25.01:233][218]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (370)
+[2018.03.23-11.25.01:233][218]LogModuleManager: Shutting down and abandoning module LauncherPlatform (368)
+[2018.03.23-11.25.01:233][218]LogModuleManager: Shutting down and abandoning module AnalyticsET (366)
+[2018.03.23-11.25.01:233][218]LogModuleManager: Shutting down and abandoning module PortalServices (364)
+[2018.03.23-11.25.01:233][218]LogModuleManager: Shutting down and abandoning module PortalRpc (362)
+[2018.03.23-11.25.01:233][218]LogModuleManager: Shutting down and abandoning module MessagingRpc (360)
+[2018.03.23-11.25.01:233][218]LogModuleManager: Shutting down and abandoning module AIModule (358)
+[2018.03.23-11.25.01:265][218]LogModuleManager: Shutting down and abandoning module GameplayDebugger (357)
+[2018.03.23-11.25.01:310][218]LogModuleManager: Shutting down and abandoning module AITestSuite (355)
+[2018.03.23-11.25.01:323][218]LogModuleManager: Shutting down and abandoning module ProfilerService (352)
+[2018.03.23-11.25.01:406][218]LogModuleManager: Shutting down and abandoning module TaskGraph (350)
+[2018.03.23-11.25.01:494][218]LogModuleManager: Shutting down and abandoning module SteamVRController (348)
+[2018.03.23-11.25.01:494][218]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (346)
+[2018.03.23-11.25.01:494][218]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (344)
+[2018.03.23-11.25.01:541][218]LogModuleManager: Shutting down and abandoning module OculusInput (342)
+[2018.03.23-11.25.01:578][218]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (340)
+[2018.03.23-11.25.01:578][218]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (338)
+[2018.03.23-11.25.01:578][218]LogModuleManager: Shutting down and abandoning module CableComponent (336)
+[2018.03.23-11.25.01:632][218]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (334)
+[2018.03.23-11.25.01:632][218]LogModuleManager: Shutting down and abandoning module AndroidPermission (332)
+[2018.03.23-11.25.01:632][218]LogModuleManager: Shutting down and abandoning module ActorSequence (330)
+[2018.03.23-11.25.01:632][218]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (328)
+[2018.03.23-11.25.01:693][218]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (326)
+[2018.03.23-11.25.01:693][218]LogModuleManager: Shutting down and abandoning module MediaCompositing (324)
+[2018.03.23-11.25.01:693][218]LogModuleManager: Shutting down and abandoning module HTML5Networking (322)
+[2018.03.23-11.25.01:693][218]LogModuleManager: Shutting down and abandoning module AlembicImporter (320)
+[2018.03.23-11.25.01:733][218]LogModuleManager: Shutting down and abandoning module AlembicLibrary (319)
+[2018.03.23-11.25.01:733][218]LogModuleManager: Shutting down and abandoning module GeometryCache (318)
+[2018.03.23-11.25.01:781][218]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (317)
+[2018.03.23-11.25.01:781][218]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (312)
+[2018.03.23-11.25.01:781][218]LogModuleManager: Shutting down and abandoning module PluginBrowser (310)
+[2018.03.23-11.25.01:954][218]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (308)
+[2018.03.23-11.25.02:100][218]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (306)
+[2018.03.23-11.25.02:100][218]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (304)
+[2018.03.23-11.25.02:100][218]LogModuleManager: Shutting down and abandoning module UObjectPlugin (302)
+[2018.03.23-11.25.02:100][218]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (300)
+[2018.03.23-11.25.02:132][218]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (298)
+[2018.03.23-11.25.02:170][218]LogModuleManager: Shutting down and abandoning module GitSourceControl (296)
+[2018.03.23-11.25.02:195][218]LogModuleManager: Shutting down and abandoning module SourceControl (295)
+[2018.03.23-11.25.02:238][218]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (292)
+[2018.03.23-11.25.02:238][218]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (290)
+[2018.03.23-11.25.02:238][218]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (288)
+[2018.03.23-11.25.02:238][218]LogModuleManager: Shutting down and abandoning module Paper2DEditor (286)
+[2018.03.23-11.25.02:297][218]LogModuleManager: Shutting down and abandoning module MeshPaint (285)
+[2018.03.23-11.25.02:330][218]LogModuleManager: Shutting down and abandoning module LevelEditor (283)
+[2018.03.23-11.25.02:351][218]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (282)
+[2018.03.23-11.25.02:409][218]LogModuleManager: Shutting down and abandoning module MainFrame (280)
+[2018.03.23-11.25.02:409][218]LogModuleManager: Shutting down and abandoning module HotReload (279)
+[2018.03.23-11.25.02:422][218]LogDirectoryWatcher: A directory notification for 'E:/UnrealProjects/MutantsClash/Mutant-Clash/Binaries/Win64' was aborted.
+[2018.03.23-11.25.02:464][218]LogModuleManager: Shutting down and abandoning module MutantClash (274)
+[2018.03.23-11.25.02:464][218]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (272)
+[2018.03.23-11.25.02:465][218]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (270)
+[2018.03.23-11.25.02:465][218]LogModuleManager: Shutting down and abandoning module PhysXVehicles (268)
+[2018.03.23-11.25.02:465][218]LogModuleManager: Shutting down and abandoning module OculusEditor (266)
+[2018.03.23-11.25.02:465][218]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (264)
+[2018.03.23-11.25.02:465][218]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (262)
+[2018.03.23-11.25.02:465][218]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (260)
+[2018.03.23-11.25.02:501][218]LogModuleManager: Shutting down and abandoning module UdpMessaging (258)
+[2018.03.23-11.25.02:614][218]LogModuleManager: Shutting down and abandoning module TcpMessaging (256)
+[2018.03.23-11.25.02:753][218]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (254)
+[2018.03.23-11.25.02:809][218]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (252)
+[2018.03.23-11.25.02:809][218]LogModuleManager: Shutting down and abandoning module FacialAnimation (250)
+[2018.03.23-11.25.02:809][218]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (248)
+[2018.03.23-11.25.02:856][218]LogModuleManager: Shutting down and abandoning module GraphEditor (247)
+[2018.03.23-11.25.02:856][218]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2018.03.23-11.25.02:858][218]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (242)
+[2018.03.23-11.25.02:858][218]LogModuleManager: Shutting down and abandoning module Paper2D (240)
+[2018.03.23-11.25.02:891][218]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (238)
+[2018.03.23-11.25.02:935][218]LogModuleManager: Shutting down and abandoning module WmfMedia (236)
+[2018.03.23-11.25.02:973][218]LogModuleManager: Shutting down and abandoning module ImgMedia (234)
+[2018.03.23-11.25.03:017][218]LogModuleManager: Shutting down and abandoning module PacketHandler (232)
+[2018.03.23-11.25.03:017][218]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (230)
+[2018.03.23-11.25.03:017][218]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (228)
+[2018.03.23-11.25.03:115][218]LogModuleManager: Shutting down and abandoning module MediaAssets (226)
+[2018.03.23-11.25.03:115][218]LogModuleManager: Shutting down and abandoning module Media (225)
+[2018.03.23-11.25.03:121][218]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.03.23-11.25.03:121][218]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.03.23-11.25.03:121][218]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.03.23-11.25.03:220][218]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.03.23-11.25.03:272][218]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.03.23-11.25.03:272][218]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.03.23-11.25.03:434][218]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.03.23-11.25.03:469][218]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.03.23-11.25.03:563][218]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.03.23-11.25.03:563][218]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.03.23-11.25.03:587][218]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.03.23-11.25.03:587][218]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.03.23-11.25.03:587][218]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.03.23-11.25.03:587][218]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.03.23-11.25.03:698][218]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.03.23-11.25.03:698][218]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.03.23-11.25.03:717][218]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.03.23-11.25.03:717][218]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.03.23-11.25.03:717][218]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.03.23-11.25.03:717][218]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.03.23-11.25.03:717][218]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.03.23-11.25.03:717][218]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.03.23-11.25.03:717][218]LogModuleManager: Shutting down and abandoning module LevelSequence (174)
+[2018.03.23-11.25.03:797][218]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (172)
+[2018.03.23-11.25.03:804][218]LogModuleManager: Shutting down and abandoning module KismetCompiler (170)
+[2018.03.23-11.25.03:804][218]LogModuleManager: Shutting down and abandoning module MeshUtilities (168)
+[2018.03.23-11.25.03:832][218]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (167)
+[2018.03.23-11.25.03:878][218]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (166)
+[2018.03.23-11.25.03:878][218]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (165)
+[2018.03.23-11.25.03:954][218]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (163)
+[2018.03.23-11.25.03:954][218]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (161)
+[2018.03.23-11.25.03:971][218]LogModuleManager: Shutting down and abandoning module MaterialBaking (157)
+[2018.03.23-11.25.04:012][218]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.03.23-11.25.04:058][218]LogDerivedDataCache: Shutdown
+[2018.03.23-11.25.04:058][218]LogModuleManager: Shutting down and abandoning module TargetPlatform (152)
+[2018.03.23-11.25.04:058][218]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (151)
+[2018.03.23-11.25.04:098][218]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (149)
+[2018.03.23-11.25.04:113][218]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (147)
+[2018.03.23-11.25.04:131][218]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (145)
+[2018.03.23-11.25.04:164][218]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (143)
+[2018.03.23-11.25.04:187][218]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (141)
+[2018.03.23-11.25.04:187][218]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (139)
+[2018.03.23-11.25.04:187][218]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (137)
+[2018.03.23-11.25.04:222][218]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (135)
+[2018.03.23-11.25.04:252][218]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (133)
+[2018.03.23-11.25.04:252][218]LogModuleManager: Shutting down and abandoning module ImageWrapper (132)
+[2018.03.23-11.25.04:252][218]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (129)
+[2018.03.23-11.25.04:252][218]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (127)
+[2018.03.23-11.25.04:252][218]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (125)
+[2018.03.23-11.25.04:252][218]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (123)
+[2018.03.23-11.25.04:252][218]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (121)
+[2018.03.23-11.25.04:252][218]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (119)
+[2018.03.23-11.25.04:252][218]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2018.03.23-11.25.04:252][218]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (115)
+[2018.03.23-11.25.04:252][218]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (113)
+[2018.03.23-11.25.04:252][218]LogModuleManager: Shutting down and abandoning module Messaging (111)
+[2018.03.23-11.25.04:252][218]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (109)
+[2018.03.23-11.25.04:252][218]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (107)
+[2018.03.23-11.25.04:252][218]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (105)
+[2018.03.23-11.25.04:252][218]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (103)
+[2018.03.23-11.25.04:252][218]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (101)
+[2018.03.23-11.25.04:252][218]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (99)
+[2018.03.23-11.25.04:252][218]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (97)
+[2018.03.23-11.25.04:252][218]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (95)
+[2018.03.23-11.25.04:252][218]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (93)
+[2018.03.23-11.25.04:252][218]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (91)
+[2018.03.23-11.25.04:252][218]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (89)
+[2018.03.23-11.25.04:252][218]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (87)
+[2018.03.23-11.25.04:252][218]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (85)
+[2018.03.23-11.25.04:252][218]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (83)
+[2018.03.23-11.25.04:252][218]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (81)
+[2018.03.23-11.25.04:253][218]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (79)
+[2018.03.23-11.25.04:253][218]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (77)
+[2018.03.23-11.25.04:253][218]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (75)
+[2018.03.23-11.25.04:253][218]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (73)
+[2018.03.23-11.25.04:253][218]LogModuleManager: Shutting down and abandoning module InputCore (70)
+[2018.03.23-11.25.04:253][218]LogModuleManager: Shutting down and abandoning module Settings (68)
+[2018.03.23-11.25.04:253][218]LogModuleManager: Shutting down and abandoning module PhysXCooking (66)
+[2018.03.23-11.25.04:253][218]LogModuleManager: Shutting down and abandoning module SteamVR (64)
+[2018.03.23-11.25.04:253][218]LogModuleManager: Shutting down and abandoning module OculusHMD (62)
+[2018.03.23-11.25.04:302][218]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (60)
+[2018.03.23-11.25.04:302][218]LogModuleManager: Shutting down and abandoning module AppleARKit (58)
+[2018.03.23-11.25.04:302][218]LogModuleManager: Shutting down and abandoning module AugmentedReality (57)
+[2018.03.23-11.25.04:302][218]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (54)
+[2018.03.23-11.25.04:302][218]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (50)
+[2018.03.23-11.25.04:302][218]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.03.23-11.25.04:335][218]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.03.23-11.25.04:472][218]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.03.23-11.25.04:472][218]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.03.23-11.25.04:472][218]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.03.23-11.25.04:490][218]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.03.23-11.25.04:490][218]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.03.23-11.25.04:515][218]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8EE4B755-4D82-5A9E-197F-60AD49DCC10D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=a1cdeba040c97666bea55bbdbbfd831b%7Ca1d72964c82c41fca3a2b00262347674%7Cb7ee5605-1329-4a43-9f8e-eb1e21a5668f&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.03.23-11.25.04:523][218]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.03.23-11.25.04:561][218]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.03.23-11.25.04:610][218]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.03.23-11.25.04:611][218]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.03.23-11.25.04:730][218]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.03.23-11.25.04:763][218]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.03.23-11.25.04:763][218]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.03.23-11.25.04:763][218]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.03.23-11.25.04:828][218]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.03.23-11.25.04:908][218]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.03.23-11.25.04:908][218]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.03.23-11.25.04:952][218]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.03.23-11.25.04:952][218]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.03.23-11.25.05:014][218]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.03.23-11.25.05:014][218]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.03.23-11.25.05:031][218]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.03.23-11.25.05:031][218]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.03.23-11.25.05:048][218]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.03.23-11.25.05:061][218]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.03.23-11.25.05:140][218]LogExit: Exiting.
+[2018.03.23-11.25.05:186][218]Log file closed, 03/23/18 22:25:05
